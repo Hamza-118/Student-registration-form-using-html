@@ -1,0 +1,39 @@
+.logo{
+margin-left: 35%;
+}
+h2{
+    text-align: center; text-decoration: blue; 
+} 
+table{
+    width: 50%;
+}
+td{
+    width: min-content;
+}
+button{
+    cursor: pointer;
+}
+.thankyou{
+text-align: center;
+}
+.studentregistrationform{
+    text-decoration: underline; color: blue;
+}
+table{
+    background-color: blueviolet; 
+    color: white;
+}
+p { width: 250px; border: 3px dotted black;}
+button{
+    padding: 10px;
+    color: white;
+    background-color: transparent;
+    border-radius: 40%;
+    font-size: large;
+    border-color: white;
+    border: solid;
+}
+#sub{
+    text-align: left;
+}
+th, td { padding: 2px 5px 10px 2px;}
